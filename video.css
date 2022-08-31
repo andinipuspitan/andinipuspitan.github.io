@@ -1,0 +1,28 @@
+body {
+  background-color: #f5edb0;
+}
+
+body * {
+  transition: 0.7s;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h5,
+a,
+strong {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+}
+
+#judul {
+  margin: 30px;
+}
+
+video {
+  border: 5px solid #000;
+  border-radius: 10px;
+}
